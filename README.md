@@ -54,7 +54,7 @@ Every link was checked in October 2026. Public data moves, so if a link fails, s
 
 ## Get the book
 
-Paperback and Kindle editions are on Amazon. The PDF bundle with a printable cheat sheet is on Gumroad at [mathewkariuki.gumroad.com](https://mathewkariuki.gumroad.com).
+Paperback and Kindle editions are on Amazon.
 
 ## About
 
